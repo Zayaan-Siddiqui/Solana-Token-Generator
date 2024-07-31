@@ -1,0 +1,13 @@
+{
+    "name": "Memetest",
+    "symbol": "METST",
+    "description": "Memecoin deployment test",
+    "image": "https://v2.akord.com/vaults/active/HGhudKUqK6jPda2j3bleRt88UipDaIU2xUkJQ2QYSAk/gallery#2a6a8f7e-267f-4214-bda4-408d195418dc",
+    "attributes": [
+      {
+        "trait_type": "Working",
+        "value": "100"
+      }
+    ]
+  }
+  
